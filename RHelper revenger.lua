@@ -99,7 +99,7 @@ local script_vers_text = "2.00"
 local update_url = "https://raw.githubusercontent.com/revengermods/RodinaHelpernew/main/update.ini" 
 local update_path = getWorkingDirectory() .. "/update.ini" -- и тут свою ссылку
 
-local script_url = "" 
+local script_url = "https://raw.githubusercontent.com/revengermods/RodinaHelpernew/main/RHelper%20revenger.lua" 
 local script_path = thisScript().path
 
 function imgui.OnDrawFrame()
